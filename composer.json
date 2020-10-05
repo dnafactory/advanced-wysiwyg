@@ -1,0 +1,25 @@
+{
+    "name": "dnafactory/advanced-wysiwyg",
+    "description": "This module will able you to upload more supported file types",
+    "authors": [
+        {
+            "name": "DNAFactory",
+            "email": "info@dnafactory.it",
+            "homepage": "https://www.dnafactory.it",
+            "role": "Owner"
+        },
+        {
+            "name": "Antonio Vitale",
+            "email": "antoniovitale@dnafactory.it",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "DNAFactory\\AdvancedWysiwyg\\": ""
+        }
+    }
+}
