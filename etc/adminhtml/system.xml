@@ -7,7 +7,7 @@
                     <label>Formati File Aggiuntivi Supportati</label>
                 	<frontend_model>DNAFactory\AdvancedWysiwyg\Block\Adminhtml\System\Config\Form\Field\Filetypes</frontend_model>
                     <backend_model>Magento\Config\Model\Config\Backend\Serialized\ArraySerialized</backend_model>
-                    <comment><![CDATA[Seleziona quali devono essere i formati dei file accettati]]></comment>
+                    <comment><![CDATA[Seleziona quali devono essere i formati dei file accettati (I seguenti formati sono aggiunti in modo predefinito: 'doc','docm','docx','csv','xml','xls','xlsx','pdf','zip','tar')]]></comment>
 				</field>
 			</group>
 		</section>
