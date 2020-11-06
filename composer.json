@@ -1,7 +1,7 @@
 {
     "name": "dnafactory/magento2-advanced-wysiwyg",
-    "description": "This module will able you to upload more supported file types",
-    "version": "1.0.0",
+    "description": "This module will able you to upload more supported file types: 'doc','docm','docx','csv','xml','xls','xlsx','pdf','zip','tar'",
+    "keywords": ["Magento2"],
     "authors": [
         {
             "name": "DNAFactory",
